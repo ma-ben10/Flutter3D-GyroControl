@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Flutter3D-GyroControl
 hi
 =======
@@ -19,3 +20,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> 257703d (first)
+=======
+# Flutter3D-GyroControl
+>>>>>>> 42eec581545666da744953d748c7079c19c3598c
